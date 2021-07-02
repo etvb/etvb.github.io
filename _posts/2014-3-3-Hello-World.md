@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: !Welcome!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+# Bienvenidos y Bienvenidas
+Si estás leyendo esto, seguramente es porque te perdiste y no sabes cómo es que llegaste aquí.
+Bueno ya que estas aquí aprovechemos para decirte **¡HOLA!**. Espero que te encuentres muy bien.
+Este tipo Blog fue creado para recordar cosas que he olvidado así que si ves escrito algo como esto “*Edgardo recuerda no regarla aquí*”, es porque estoy hablando con mi yo del futuro.
+Por desgracias el Blog no fue pensado para ayudar a otros, solo a mí mismo, pero si mis apuntes para el yo de futuro te sirven, **pues qué bueno**
+Saludos y mucho éxito ¡*Que no decaiga el ánimo*!

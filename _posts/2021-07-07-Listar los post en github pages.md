@@ -17,10 +17,12 @@ Lo que tienes que hacer es muy sencillo.
 
 Fácil en cada post agrega esto al inicio del archivo.
 
+  ```
   ---
   layout: post
   title:  "Lo que quieras"
   ---
+  ```
   
 >Nota: el nombre del título va en comillas, *condenadas comillas*.
 

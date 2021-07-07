@@ -28,4 +28,6 @@ Fácil en cada post agrega esto al inicio del archivo.
 
 Y listo eso es todo, eso me funciono a mí. Para mayor referencia usa la documentación oficial, te dejo el link [aquí](https://jekyllrb.com/docs/posts/).
 
+[blog con titulo](/images/titulos-blog.png)
+
 Que no decaiga el ánimo.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mostrar el titulo de los posts."
+tags: jekyll github-pages
 ---
 
 # Mostrar el titulo de los posts, al listarlos en github pages

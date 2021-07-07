@@ -9,7 +9,7 @@ Si creaste tu blog con [JEKYLL](https://jekyllrb.com/) y [GITHUB PAGES](https://
 sin ningún título solo un feo Read me. Pues bien, después de mucho investigar en todos lados, termine
 encontrado la respuesta en la documentación oficial de [jekyll](https://jekyllrb.com/).
 
-![imagen como aparece mi blog](/images/jekyll blog.png)
+![imagen como aparece mi blog](/images/"jekyll blog.png")
 
 Lo que tienes que hacer es muy sencillo.
 

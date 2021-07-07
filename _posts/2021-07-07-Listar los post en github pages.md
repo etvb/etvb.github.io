@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mostrar el titulo de los posts, al listarlos en github pages"
+title: "Mostrar el titulo de los posts."
 ---
 
 # Mostrar el titulo de los posts, al listarlos en github pages
